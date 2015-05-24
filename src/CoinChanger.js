@@ -2,6 +2,7 @@
  * Coin Changer Javascript
  */
 function CoinChanger(){}
+
 var PENNY = 1; 
 var NICKEL = 5;
 var DIME = 10;
